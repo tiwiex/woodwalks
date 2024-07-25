@@ -3,8 +3,8 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "Woodwalks Website",
+			"module_name": "Ww Website",
 			"type": "module",
-			"label": _("Woodwalks Website")
+			"label": _("Ww Website")
 		}
 	]
