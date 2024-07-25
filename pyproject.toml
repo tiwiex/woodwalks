@@ -3,7 +3,7 @@ name = "ww_website"
 authors = [
     { name = "Taiwo Akinosho", email = "tiwiex@yahoo.com"}
 ]
-description = "Woodwalks Website"
+description = "Woodwalks Site"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

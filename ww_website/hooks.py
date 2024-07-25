@@ -1,7 +1,7 @@
 app_name = "ww_website"
-app_title = "Woodwalks website"
+app_title = "Woodwalks Website"
 app_publisher = "Taiwo Akinosho"
-app_description = "Woodwalks Website"
+app_description = "Woodwalks Site"
 app_email = "tiwiex@yahoo.com"
 app_license = "MIT"
 

@@ -1,6 +1,6 @@
-## Woodwalks website
+## Woodwalks Website
 
-Woodwalks Website
+Woodwalks Site
 
 #### License
 
